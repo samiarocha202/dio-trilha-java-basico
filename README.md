@@ -1,18 +1,18 @@
 # Repositório de Códigos 💻
 ```java
 import java.util.Scanner;
-public class Main
+public class HelloWorld
 {
 	public static void main(String[] args) {
-		 Scanner tcl = new Scanner(System.in);
-		System.out.println("Você está pronto para embarcar nessa jornada comigo? ");
+	Scanner tcl = new Scanner(System.in);
+	System.out.println("Você está pronto para embarcar nessa jornada comigo? ");
         String answer = tcl.nextLine();
         if (answer.equals("Sim") || answer.equals("sim")) {
             System.out.println("Embarque nessa jornada comigo! ");
         } else {
             System.out.println("Respire fundo... e embarque do mesmo jeito! 🤣");
         }
-	}
+    }
 }
 ```
 

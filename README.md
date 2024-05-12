@@ -1,5 +1,20 @@
 # Repositório de Códigos 💻
-Repositório para armazenamento dos códigos do curso de Java Básico da DIO
+```java
+import java.util.Scanner;
+public class Main
+{
+	public static void main(String[] args) {
+		 Scanner tcl = new Scanner(System.in);
+		System.out.println("Você está pronto para embarcar nessa jornada comigo? ");
+        String answer = tcl.nextLine();
+        if (answer.equals("Sim") || answer.equals("sim")) {
+            System.out.println("Embarque nessa jornada comigo! ");
+        } else {
+            System.out.println("Respire fundo... e embarque do mesmo jeito! 🤣");
+        }
+	}
+}
+```
 
 ### Tecnologias
 ![Apache NetBeans IDE Badge](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6?logo=apachenetbeanside&logoColor=fff&style=for-the-badge)

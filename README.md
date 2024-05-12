@@ -10,5 +10,6 @@ Repositório para armazenamento dos códigos do curso de Java Básico da DIO
 ### Motivação Diária ☕
 > "Tudo aquilo que você faz com amor e dedicação, terá com certeza um belíssimo resultado, porque ali, você depositou um pedacinho de si mesmo."
 — *Célia Cristina Prado*
+
 > "Java é como o café da manhã dos programadores: essencial para começar o dia com energia, mas cuidado para não se viciar." ☕️💻
 — *Any Java Programmer*
